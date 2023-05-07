@@ -1,0 +1,37 @@
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.AssemblyInfo.cs
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ichimoku strategy.deps.json
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ichimoku strategy.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ichimoku strategy.pdb
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ATAS.DataFeedsCore.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ATAS.Indicators.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ATAS.Indicators.Technical.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ATAS.Strategies.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\OFT.Attributes.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\OFT.Localization.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\OFT.Rendering.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\Utils.Common.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\linq2db.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\MoreLinq.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\websocket-sharp.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\log4net.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\protobuf-net.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\de-de\ATAS.Indicators.Technical.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ru-ru\ATAS.Indicators.Technical.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\de-de\OFT.Localization.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\es-es\OFT.Localization.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\fr-fr\OFT.Localization.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\ru-ru\OFT.Localization.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\zh-cn\OFT.Localization.resources.dll
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.csproj.CopyComplete
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.dll
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\refint\ichimoku strategy.dll
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.pdb
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ref\ichimoku strategy.dll

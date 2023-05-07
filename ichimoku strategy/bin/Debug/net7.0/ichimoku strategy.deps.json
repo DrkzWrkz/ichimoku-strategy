@@ -1,0 +1,279 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ichimoku strategy/1.0.0": {
+        "dependencies": {
+          "ATAS.DataFeedsCore": "6.0.2.311",
+          "ATAS.Indicators": "6.0.2.311",
+          "ATAS.Indicators.Technical": "6.0.2.311",
+          "ATAS.Strategies": "6.0.2.311",
+          "OFT.Attributes": "1.0.0.0",
+          "OFT.Localization": "1.0.0.0",
+          "OFT.Rendering": "6.0.2.311",
+          "Utils.Common": "1.0.0.0"
+        },
+        "runtime": {
+          "ichimoku strategy.dll": {}
+        }
+      },
+      "ATAS.DataFeedsCore/6.0.2.311": {
+        "runtime": {
+          "ATAS.DataFeedsCore.dll": {
+            "assemblyVersion": "6.0.2.311",
+            "fileVersion": "6.0.2.311"
+          }
+        }
+      },
+      "ATAS.Indicators/6.0.2.311": {
+        "runtime": {
+          "ATAS.Indicators.dll": {
+            "assemblyVersion": "6.0.2.311",
+            "fileVersion": "6.0.2.311"
+          }
+        }
+      },
+      "ATAS.Indicators.Technical/6.0.2.311": {
+        "runtime": {
+          "ATAS.Indicators.Technical.dll": {
+            "assemblyVersion": "6.0.2.311",
+            "fileVersion": "6.0.2.311"
+          }
+        },
+        "resources": {
+          "de-de/ATAS.Indicators.Technical.resources.dll": {
+            "locale": "de-de"
+          },
+          "ru-ru/ATAS.Indicators.Technical.resources.dll": {
+            "locale": "ru-ru"
+          }
+        }
+      },
+      "ATAS.Strategies/6.0.2.311": {
+        "runtime": {
+          "ATAS.Strategies.dll": {
+            "assemblyVersion": "6.0.2.311",
+            "fileVersion": "6.0.2.311"
+          }
+        }
+      },
+      "OFT.Attributes/1.0.0.0": {
+        "runtime": {
+          "OFT.Attributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OFT.Localization/1.0.0.0": {
+        "runtime": {
+          "OFT.Localization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "resources": {
+          "de-de/OFT.Localization.resources.dll": {
+            "locale": "de-de"
+          },
+          "es-es/OFT.Localization.resources.dll": {
+            "locale": "es-es"
+          },
+          "fr-fr/OFT.Localization.resources.dll": {
+            "locale": "fr-fr"
+          },
+          "ru-ru/OFT.Localization.resources.dll": {
+            "locale": "ru-ru"
+          },
+          "zh-cn/OFT.Localization.resources.dll": {
+            "locale": "zh-cn"
+          }
+        }
+      },
+      "OFT.Rendering/6.0.2.311": {
+        "runtime": {
+          "OFT.Rendering.dll": {
+            "assemblyVersion": "6.0.2.311",
+            "fileVersion": "6.0.2.311"
+          }
+        }
+      },
+      "Utils.Common/1.0.0.0": {
+        "runtime": {
+          "Utils.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "linq2db/2.0.0.0": {
+        "runtime": {
+          "linq2db.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "MoreLinq/3.3.1.0": {
+        "runtime": {
+          "MoreLinq.dll": {
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
+          }
+        }
+      },
+      "websocket-sharp/1.0.1.0": {
+        "runtime": {
+          "websocket-sharp.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "log4net/2.0.15.0": {
+        "runtime": {
+          "log4net.dll": {
+            "assemblyVersion": "2.0.15.0",
+            "fileVersion": "2.0.15.0"
+          }
+        }
+      },
+      "protobuf-net/2.4.0.0": {
+        "runtime": {
+          "protobuf-net.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.6.0"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/7.0.0.0": {
+        "runtime": {
+          "System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/4.0.1.0": {
+        "runtime": {
+          "System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "System.Security.Permissions/4.0.1.0": {
+        "runtime": {
+          "System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ichimoku strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATAS.DataFeedsCore/6.0.2.311": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATAS.Indicators/6.0.2.311": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATAS.Indicators.Technical/6.0.2.311": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATAS.Strategies/6.0.2.311": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OFT.Attributes/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OFT.Localization/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OFT.Rendering/6.0.2.311": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils.Common/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "linq2db/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoreLinq/3.3.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "websocket-sharp/1.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.15.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/2.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Cryptography.ProtectedData/7.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/4.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Security.Permissions/4.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

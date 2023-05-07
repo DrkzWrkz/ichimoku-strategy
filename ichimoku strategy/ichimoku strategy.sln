@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ichimoku strategy", "ichimoku strategy.csproj", "{A8FC2E50-C190-4E67-BB40-2D835A8A098B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8FC2E50-C190-4E67-BB40-2D835A8A098B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FC2E50-C190-4E67-BB40-2D835A8A098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FC2E50-C190-4E67-BB40-2D835A8A098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FC2E50-C190-4E67-BB40-2D835A8A098B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D729596-B8B6-4786-9FA9-C84F520A4400}
+	EndGlobalSection
+EndGlobal

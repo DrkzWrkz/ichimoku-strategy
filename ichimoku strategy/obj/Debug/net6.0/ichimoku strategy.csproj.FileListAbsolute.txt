@@ -1,0 +1,5 @@
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net6.0\ichimoku strategy.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net6.0\ichimoku strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net6.0\ichimoku strategy.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net6.0\ichimoku strategy.AssemblyInfo.cs
+C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net6.0\ichimoku strategy.csproj.CoreCompileInputs.cache

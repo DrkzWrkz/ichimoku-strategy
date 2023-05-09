@@ -35,3 +35,4 @@ C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.
 C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\refint\ichimoku strategy.dll
 C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ichimoku strategy.pdb
 C:\Users\Home\source\repos\ichimoku strategy\obj\Debug\net7.0\ref\ichimoku strategy.dll
+C:\Users\Home\source\repos\ichimoku strategy\bin\Debug\net7.0\PresentationCore.dll

@@ -29,6 +29,9 @@
     <Reference Include="OFT.Rendering">
       <HintPath>..\..\..\..\..\Program Files (x86)\ATAS Platform\OFT.Rendering.dll</HintPath>
     </Reference>
+    <Reference Include="PresentationCore">
+      <HintPath>..\..\..\..\..\Windows\WinSxS\wow64_presentationcore_31bf3856ad364e35_4.0.15805.598_none_d1606a8686933a01\PresentationCore.dll</HintPath>
+    </Reference>
     <Reference Include="Utils.Common">
       <HintPath>..\..\..\..\..\Program Files (x86)\ATAS Platform\Utils.Common.dll</HintPath>
     </Reference>
